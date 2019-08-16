@@ -1,9 +1,7 @@
 {
 	"topOperatingSystems": {
 		"1": {
-			"title": "Microsoft Windows",
-			"creator": "Microsoft, Bill Gates",
-			"released": 1985
+			"Microsoft": "Microsoft Windows",
 		},
 		"2": {
 			"title": "Apple OS",
