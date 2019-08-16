@@ -1,7 +1,9 @@
 {
 	"topOperatingSystems": {
 		"1": {
-			"Microsoft": "Microsoft Windows",
+			"title": "Microsoft Windows",
+			"creator": "Microsoft",
+			"Released": 1985
 		},
 		"2": {
 			"title": "Apple OS",
